@@ -1,0 +1,23 @@
+{
+  "name": "loops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loops.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexandria201/loops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexandria201/loops/issues"
+  },
+  "homepage": "https://github.com/Alexandria201/loops#readme",
+  "devDependencies": {
+    "eslint": "^8.8.0"
+  }
+}
